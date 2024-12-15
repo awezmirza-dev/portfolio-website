@@ -1,3 +1,8 @@
+# fly.toml app configuration file generated for awezmirza on 2024-12-15T15:39:50Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
 app = 'awezmirza'
 primary_region = 'bom'
 
