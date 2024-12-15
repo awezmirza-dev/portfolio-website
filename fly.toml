@@ -1,9 +1,4 @@
-# fly.toml app configuration file generated for portfolio-website-sbztwq on 2024-12-15T15:21:50Z
-#
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
-
-app = 'portfolio-website-sbztwq'
+app = 'awezmirza'
 primary_region = 'bom'
 
 [build]
