@@ -101,6 +101,9 @@
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 0;
     }
 
     .content {
@@ -118,6 +121,25 @@
     .aboutItem {
         padding-left: 0;
         padding-right: 0;
+    }
+
+    .heatmap {
+        width: 100%;
+        margin-block: 20px;
+    }
+
+    .leetcodeURLText {
+        margin-left: 5px;
+    }
+
+    .leetcodeLogo {
+        height: 35px;
+    }
+
+    .leetcodeDetailsList {
+        color: var(--color-text);
+        font-size: 20px;
+        font-weight: 400;
     }
 }
 

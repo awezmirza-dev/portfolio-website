@@ -118,4 +118,21 @@
     width: 100%;
     gap: 9px;
   }
+
+  .container {
+    margin-top: 0px;
+
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .skillImageContainer {
+    width: 90px;
+    height: 90px;
+  }
+
+  .skill p {
+    font-size: 20px;
+    font-weight: 400;
+  }
 }
