@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "Redis",
+    "imageSrc": "skills/redis.png"
+  },
+  {
+    "title": "Socket.io",
+    "imageSrc": "skills/socket-io.png"
+  },
+  {
+    "title": "Nodemailer",
+    "imageSrc": "skills/nodemailer.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "skills/rest.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "JWT",
+    "imageSrc": "skills/jwt.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Microservices",
+    "imageSrc": "skills/microservices.png"
+  },
+  {
+    "title": "DBMS",
+    "imageSrc": "skills/dbms.png"
+  },
+  {
+    "title": "AWS EC2",
+    "imageSrc": "skills/aws-ec2.png"
+  }
+]

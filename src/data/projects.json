@@ -1,0 +1,39 @@
+[
+  {
+    "title": "GameHub",
+    "imageSrc": "projects/gamehub.png",
+    "description": "Developed a social gaming platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a microservices architecture, enabling users to play games, chat, compete on leaderboards, and manage friends in a clean and efficient system.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Microservices",
+      "REST APIs",
+      "Redux.js",
+      "Authentication",
+      "Authorization",
+      "Git",
+      "Redis",
+      "NodeMailer",
+      "Socket.io",
+      "...and many more"
+    ],
+    "demo": "https://game-hub.duckdns.org/",
+    "source": "https://github.com/projectgamehub"
+  },
+  {
+    "title": "Crypto Balance Explorer",
+    "imageSrc": "projects/crypto-balance-explorer.png",
+    "description": "• Developed a responsive web application utilizing technologies such as Axios, Javascript, HTML, and CSS. \n• Implemented functionality to fetch and display the amount of selected cryptocurrencies from specified addresses on a particular Blockchain. \n• Integrated API interactions to gather real-time data and presented it in a user-friendly table format. \n• Enhanced user experience by incorporating features like exporting data in CSV format and copying to clipboard for seamless data management.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "REST APIs",
+      "Software Implementation"
+    ],
+    "demo": "https://awezmirza-dev.github.io/crypto-balance-explorer/",
+    "source": "https://github.com/awezmirza-dev/crypto-balance-explorer"
+  }
+]
