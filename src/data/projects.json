@@ -20,7 +20,7 @@
       "...and many more"
     ],
     "demo": "https://game-hub.duckdns.org/",
-    "source": "https://github.com/projectgamehub"
+    "source": "https://github.com/project-gamehub"
   },
   {
     "title": "Crypto Balance Explorer",
@@ -33,7 +33,7 @@
       "REST APIs",
       "Software Implementation"
     ],
-    "demo": "https://awezmirza-dev.github.io/crypto-balance-explorer/",
-    "source": "https://github.com/awezmirza-dev/crypto-balance-explorer"
+    "demo": "https://awezmirza.github.io/crypto-balance-explorer/",
+    "source": "https://github.com/awezmirza/crypto-balance-explorer"
   }
 ]
